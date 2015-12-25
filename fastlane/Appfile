@@ -1,0 +1,3 @@
+issuer "IT IS RIGHT THERE BUT ITS SECRET" # Follow https://github.com/fastlane/supply#setup to get one
+keyfile "/HERE/PATH/TO/ISSUER/KEY.p12" # Path to the keyfile
+package_name "com.MY.HELLO.WORLD" # e.g. com.krausefx.app
